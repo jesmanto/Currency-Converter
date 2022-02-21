@@ -17,16 +17,16 @@ class MainActivity : AppCompatActivity() {
     private val currencies = listOf(
         "EUR",
         "USD",
-        "NGN",
-        "GHC",
+        "CAD",
+        "AUD",
         "GBP"
     )
 
     private val icons = listOf(
         R.drawable.eur,
-        R.drawable.eur,
-        R.drawable.eur,
-        R.drawable.eur,
+        R.drawable.usd,
+        R.drawable.cad,
+        R.drawable.aud,
         R.drawable.eur
     )
 
